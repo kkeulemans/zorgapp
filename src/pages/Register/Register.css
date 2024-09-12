@@ -1,11 +1,9 @@
-fieldset {
+#page-title {
     margin: 20px;
 }
-button {
-    margin: 5px;
-    padding: 5px;
-    text-underline-mode: off;
-}
-NavLink{
-    text-underline-mode: off;
+
+#user-choice {
+    margin: 10px;
+    display: block;
+    text-align: left;
 }
